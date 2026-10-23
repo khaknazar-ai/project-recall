@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.env
+.env.*
+data/
+.questmemory/
+questmemory.toml
+projectrecall.json
+*.sqlite*
+*.log
